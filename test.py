@@ -21,9 +21,6 @@ class Calculate:
         def callback(url):
           webbrowser.open_new_tab(url)
 
-
-
-
         # NEW WINDOW-INSTRUCTION
         def openNewWindow(*url):
 
